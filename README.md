@@ -11,29 +11,6 @@ Logo oluşturmak ve GitHub deposunu yönetmek ciddi zaman alıyor. Daha fazla lo
 - Sıraya atlamak ve eksik logoları öncelikli olarak talep edebilmek
 - Özel logo veya açık arka plan için logo siparişi verebilmek
 
----
-
-
-
-## 🌍 Ülkeler
-
-Bir ülkeye tıklayarak o dizine gidin. Dizinin başındaki mozaik dosyasına tıklayarak logoları önizleyebilirsiniz.
-
-|  |  |  |  |  |  |
-|---|---|---|---|---|---|
-| 🇦🇱 [Arnavutluk](countries/albania) | 🇦🇷 [Arjantin](countries/argentina) | 🇦🇺 [Avustralya](countries/australia) | 🇦🇹 [Avusturya](countries/austria) | 🇦🇿 [Azerbaycan](countries/azerbaijan) | 🇧🇪 [Belçika](countries/belgium) |
-| 🇧🇷 [Brezilya](countries/brazil) | 🇧🇬 [Bulgaristan](countries/bulgaria) | 🇨🇦 [Kanada](countries/canada) | 🌎 [Karayipler](countries/caribbean) | 🇨🇱 [Şili](countries/chile) | 🇨🇷 [Kosta Rika](countries/costa-rica) |
-| 🇭🇷 [Hırvatistan](countries/croatia) | 🇨🇿 [Çekya](countries/czech-republic) | 🇩🇰 [Danimarka](countries/nordic/denmark) | 🇫🇮 [Finlandiya](countries/nordic/finland) | 🇫🇷 [Fransa](countries/france) | 🇩🇪 [Almanya](countries/germany) |
-| 🇬🇷 [Yunanistan](countries/greece) | 🇭🇰 [Hong Kong](countries/hong-kong) | 🇭🇺 [Macaristan](countries/hungary) | 🇮🇸 [İzlanda](countries/nordic/iceland) | 🇮🇳 [Hindistan](countries/india) | 🇮🇩 [Endonezya](countries/indonesia) |
-| 🌍 [Uluslararası](countries/international) | 🇮🇪 [İrlanda](countries/ireland) | 🇮🇱 [İsrail](countries/israel) | 🇮🇹 [İtalya](countries/italy) | 🇱🇧 [Lübnan](countries/lebanon) | 🇱🇹 [Litvanya](countries/lithuania) |
-| 🇱🇺 [Lüksemburg](countries/luxembourg) | 🇲🇾 [Malezya](countries/malaysia) | 🇲🇹 [Malta](countries/malta) | 🇲🇽 [Meksika](countries/mexico) | 🇳🇱 [Hollanda](countries/netherlands) | 🇳🇿 [Yeni Zelanda](countries/new-zealand) |
-| 🌍 [Nordik](countries/nordic) | 🇳🇴 [Norveç](countries/nordic/norway) | 🇵🇭 [Filipinler](countries/philippines) | 🇵🇱 [Polonya](countries/poland) | 🇵🇹 [Portekiz](countries/portugal) | 🇷🇴 [Romanya](countries/romania) |
-| 🇷🇺 [Rusya](countries/russia) | 🇷🇸 [Sırbistan](countries/serbia) | 🇸🇬 [Singapur](countries/singapore) | 🇸🇰 [Slovakya](countries/slovakia) | 🇸🇮 [Slovenya](countries/slovenia) | 🇿🇦 [Güney Afrika](countries/south-africa) |
-| 🇪🇸 [İspanya](countries/spain) | 🇸🇪 [İsveç](countries/nordic/sweden) | 🇨🇭 [İsviçre](countries/switzerland) | 🇹🇷 [Türkiye](countries/turkey) | 🇺🇦 [Ukrayna](countries/ukraine) | 🇦🇪 [BAE](countries/united-arab-emirates) |
-| 🇬🇧 [Birleşik Krallık](countries/united-kingdom) | 🇺🇸 [ABD](countries/united-states) | 🌍 [Dünya-Afrika](countries/world-africa) | 🌏 [Dünya-Asya](countries/world-asia) | 🌍 [Dünya-Avrupa](countries/world-europe) | 🌎 [Latin Amerika](countries/world-latin-america) |
-| 🌏 [Orta Doğu](countries/world-middle-east) | | ⭐️ [Çeşitli](misc) | 📼 [VOD](misc/vod) | | |
-
----
 
 ## ℹ️ Proje Hakkında
 
