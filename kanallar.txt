@@ -33,7 +33,6 @@ HABERTURK => haberturk
 TGRT HABER => tgrthaber
 EKOTURK => ekoturk
 HABERGLOBAL => haberglobal
-TELE 1 => tele1
 EKOL TV => ekoltv
 FLASH HABER => flashhaber
 LİDER HABER TV => li̇derhabertv
